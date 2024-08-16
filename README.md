@@ -1,4 +1,4 @@
-# LUNA-A430Ai
+# LUNA-A430Ai [LUNA-TENSHI]
 
 (yes i will drop the first luna release in the following days)
 
