@@ -23,6 +23,7 @@ function Write-AnimatedTextShort {
     $Host.UI.RawUI.ForegroundColor = $originalColor
 }
 
+# (Github version: Grab tenshi.txt in order to work)
 
 Write-AnimatedTextShort "
 
