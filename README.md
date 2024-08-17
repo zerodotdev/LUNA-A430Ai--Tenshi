@@ -1,6 +1,6 @@
 # LUNA-A430Ai [Tenshi-Edition]
 
-(Release Tomorrow)
+(Release Today!)
 
 Welcome! LUNA-A430 is a friendly and conversational AI chatbot designed to run in the Windows terminal. Luna functions on numerous APIs, pulling data from a range of local and external databases. This includes but is not limited to the Wiki database, casual conversational dialect (local JSON), and emotion database. 
 # Additional
