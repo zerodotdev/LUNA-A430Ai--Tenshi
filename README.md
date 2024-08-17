@@ -1,8 +1,7 @@
 # LUNA-A430Ai [Tenshi-Edition]
 
-(Release Today!)
-
-IMPORTENT, MOVE ALL LUNA FILES AND EXTTRACT TO C:\
+# Install
+- Move The Luna folder, all files to root C:\
 
 Welcome! LUNA-A430 is a friendly and conversational AI chatbot designed to run in the Windows terminal. Luna functions on numerous APIs, pulling data from a range of local and external databases. This includes but is not limited to the Wiki database, casual conversational dialect (local JSON), and emotion database. 
 # Additional
