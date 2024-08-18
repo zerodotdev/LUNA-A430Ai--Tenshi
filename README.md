@@ -5,9 +5,15 @@ Welcome! LUNA-A430 is a friendly and conversational AI chatbot designed to run i
 
 #Requirements = + = + = + = + = + = + = + = + 
 
+**Reccomended**
 -Windows 10 matchine 
 -Python latest 
--Powershell 5.1 or greater (preferably greater)
+-Powershell 6 or 7
+
+**Minimum**
+-Windows 8.1 matchine 
+-Python 
+-Powershell 5.1
 
 # Install = + = + = + = + = + = + = + = + 
 
