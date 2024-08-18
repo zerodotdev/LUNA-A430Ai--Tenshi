@@ -1,18 +1,23 @@
-= + = + = + = + = + = + = + = + = + = + = + = + = + = + = + = + = + =
 # LUNA-A430Ai [Tenshi-Edition]
 
-Welcome! LUNA-A430 is a friendly and conversational AI chatbot designed to run in the Windows terminal. LUNA is not desighned to be informative at all, and is not super advanced Be patient, Luna is still in early development. (I have hidden easter eggs)
+Welcome! LUNA-A430 is a friendly and conversational AI chatbot designed to run in the Windows terminal. (W hidden easter eggs) LUNA is not desighned to be informative at all, and is not super advanced Be patient, Luna is still in early development. Now With Splash Text!
 
-#Requirements = + = + = + = + = + = + = + = + 
+# Requirements = + = + = + = + = + = + = + = + 
 
-**Reccomended**
+**Reccomended:**
+
 -Windows 10 matchine 
+
 -Python latest 
+
 -Powershell 6 or 7
 
-**Minimum**
+**Minimum:**
+
 -Windows 8.1 matchine 
+
 -Python 
+
 -Powershell 5.1
 
 # Install = + = + = + = + = + = + = + = + 
@@ -28,7 +33,7 @@ Welcome! LUNA-A430 is a friendly and conversational AI chatbot designed to run i
 - Locate *key.txt*
 - it should be blank grab a hugging face api key from: https://huggingface.co/settings/tokens
 - Paste your key and nothing els into the .txt file
-- Locate *fetch_dialogue_data.py* in resources, run it. it will create the json database for luna (DO THIS ONLY IF THERE IS A PROBLEM WITH THE ALLREADY PROVIDED JSON) ELSE, SKIP THIS STEP
+- Locate *fetch_dialogue_data.py* in resources, run it. it will create the json database for luna (Do this only if the provided json file has an issue)
 - run the shortcut, it will open the script files in the right order.
 - For every file that trys to open, uncheck the "allways ask me before opening" check box or you will get an error and luna will not run.
 - Luna should Launch as expected
