@@ -27,10 +27,15 @@ Welcome! LUNA-A430 is a friendly and conversational AI chatbot designed to run i
 - For every file that trys to open, uncheck the "allways ask me before opening" check box or you will get an error and luna will not run.
 - Luna should Launch as expected
 
-  
 # Additional = + = + = + = + = + = + = + = + 
 The main branch are all my projects files not intened for use just for viewing. If you want to become a contributor or an alpha tester you can find me on Discord, just add me. Username: @ok.zero. Luna's responses can be directly misleading, so fact-check important information. If you notice Luna repeating phrases, these are usually pre-programmed responses, but not allways, Luna sometimes takes the traning data literally and so will sometimes get confused. (Luna May Not work as expected on windows 11)
 
 **Alternative Launch:**
 
 ```start "C:\LUNA-A430Ai\LUNA-Tenshi-Launcher.lnk" ```
+
+# Preview Screenshots = + = + = + = + = + = + = + = + 
+Luna Main
+![Screenshot 2024-08-18 153610](https://github.com/user-attachments/assets/eb9e05fb-e345-4102-a1bc-ed978b8cfcad)
+Luna Launcher
+![Screenshot 2024-08-18 153931](https://github.com/user-attachments/assets/dcb3d47b-597c-4d18-af50-bb506935e691)
