@@ -11,13 +11,13 @@ Welcome! LUNA-A430 is a friendly and conversational AI chatbot designed to run i
 
 # Install = + = + = + = + = + = + = + = + 
 
-**For Pre Configured Version**
+**For Pre Configured Version:**
 - Move The Luna folder, and all files to root C:\
 - Run The Shortcut (will not run properly otherwise)
 - Luna should Launch as expected
 
-**For Open Source Version**
-- (All code is stored in the resourses folder in the release as well as the main branch code folder)
+**For Open Source Version:**
+- (All code is stored in the resourses folder in the release as well as the main branch code folder if you do not trust me)
 - Move The Luna folder, and all files to root C:\
 - Locate *key.txt*
 - it should be blank grab a hugging face api key from: https://huggingface.co/settings/tokens
