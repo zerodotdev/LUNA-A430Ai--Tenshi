@@ -22,7 +22,7 @@ Welcome! LUNA-A430 is a friendly and conversational AI chatbot designed to run i
 - Locate *key.txt*
 - it should be blank grab a hugging face api key from: https://huggingface.co/settings/tokens
 - Paste your key and nothing els into the .txt file
-- Locate *fetch_dialogue_data.py* in reasources, run it. it will create the json database for luna
+- Locate *fetch_dialogue_data.py* in resources, run it. it will create the json database for luna (DO THIS ONLY IF THERE IS A PROBLEM WITH THE ALLREADY PROVIDED JSON) ELSE, SKIP THIS STEP
 - run the shortcut, it will open the script files in the right order. 
 - Luna should Launch as expected
 
