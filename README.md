@@ -34,8 +34,10 @@ The main branch are all my projects files not intened for use just for viewing. 
 
 ```start "C:\LUNA-A430Ai\LUNA-Tenshi-Launcher.lnk" ```
 
-# Preview Screenshots = + = + = + = + = + = + = + = + 
-Luna Main
+# Luna Main = + = + = + = + = + = + = + = + 
 ![Screenshot 2024-08-18 153610](https://github.com/user-attachments/assets/eb9e05fb-e345-4102-a1bc-ed978b8cfcad)
-Luna Launcher
+
+
+
+# Luna Launcher = + = + = + = + = + = + = + = + 
 ![Screenshot 2024-08-18 153931](https://github.com/user-attachments/assets/dcb3d47b-597c-4d18-af50-bb506935e691)
