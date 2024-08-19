@@ -1,6 +1,6 @@
 # LUNA-A430Ai [Tenshi-Edition]
 
-Welcome! LUNA-A430 is a friendly and conversational AI chatbot designed to run in the Windows terminal. (W hidden easter eggs) LUNA is not desighned to be informative at all, and is not super advanced Be patient, Luna is still in early development. Now With Splash Text!
+Welcome! LUNA-A430 is a friendly and conversational AI chatbot designed to run in the Windows terminal. (W hidden easter eggs) LUNA is not desighned to be informative at all, and is not super advanced Be patient, Luna is still in early development. Now With Splash Text! (See wiki for screenshots)
 
 # Requirements = + = + = + = + = + = + = + = + 
 
@@ -44,11 +44,3 @@ The main branch are all my projects files not intened for use just for viewing. 
 **Alternative Launch:**
 
 ```start "C:\LUNA-A430Ai\LUNA-Tenshi-Launcher.lnk" ```
-
-# Luna Main = + = + = + = + = + = + = + = + 
-![Screenshot 2024-08-18 153610](https://github.com/user-attachments/assets/eb9e05fb-e345-4102-a1bc-ed978b8cfcad)
-
-
-
-# Luna Launcher = + = + = + = + = + = + = + = + 
-![Screenshot 2024-08-18 153931](https://github.com/user-attachments/assets/dcb3d47b-597c-4d18-af50-bb506935e691)
