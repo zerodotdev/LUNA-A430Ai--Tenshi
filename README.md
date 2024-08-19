@@ -2,7 +2,7 @@
 
 Welcome! LUNA-A430 is a friendly and conversational AI chatbot designed to run in the Windows powershell terminal. LUNA is not desighned to be informative at all, and is not super advanced Be patient, Luna is still in early development. Now With Splash Text! (See wiki for screenshots)
 
-If you have any ideas it is greatly appreciated to share them [Here](https://github.com/zerodotdev/LUNA-A430Ai--Tenshi/discussions/categories/ideas) or just join the discussion!
+If you have any ideas it is greatly appreciated to share them [Here](https://github.com/zerodotdev/LUNA-A430Ai--Tenshi/discussions/categories/ideas) or just join the discussion!!
 
 # Requirements = + = + = + = + = + = + = + = + 
 
