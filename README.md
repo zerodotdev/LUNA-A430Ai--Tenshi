@@ -10,9 +10,9 @@ If you have any ideas it is greatly appreciated to share them [Here](https://git
 
 -Windows 10 matchine 
 
--[Python latest](ttps://www.python.org/downloads/release/python-3125/)
+-[Python latest](https://www.python.org/downloads/release/python-3125/)
 
--Powershell 6 or 7
+-[Powershell Latest](https://github.com/PowerShell/PowerShell/releases/tag/v7.4.40)
 
 **Minimum:**
 
@@ -33,9 +33,9 @@ If you have any ideas it is greatly appreciated to share them [Here](https://git
 - (All code is stored in the resourses folder in the release as well as the main branch code folder if you do not trust me)
 - Move The Luna folder, and all files to root C:\
 - Locate *key.txt*
-- it should be blank grab a hugging face api key from: https://huggingface.co/settings/tokens
+- it should be blank grab a hugging face api key from [here](https://huggingface.co/settings/tokens)
 - Paste your key and nothing els into the .txt file
-- Locate *fetch_dialogue_data.py* in resources, run it. it will generate the json database for luna
+- Locate *fetch_dialogue_data.py* in resources, run it. it will generate the json database for luna (not main branch)
   (Do this only if the provided json file has an issue)
 - run the shortcut, it will open the script files in the right order.
 - For every file that trys to open, uncheck the "allways ask me before opening" check box or you will get an error and luna will not run.
