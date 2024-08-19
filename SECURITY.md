@@ -9,4 +9,5 @@
 
 ## Reporting a Leak of Keys or secrets
 
-If you find one, Dm me an on Discord, just add me. Username: @ok.zero. And i will take action about it.
+If you find one, Create a private security report on github or if you cant. Alternatively Dm me an on Discord, just add me. Username: @ok.zero. And i will review the claim.
+
